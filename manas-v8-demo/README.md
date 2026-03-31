@@ -172,7 +172,7 @@ Uses Qwen's chat format:
 |-------|----------|-------|
 | Base Qwen | 20% | Baseline (no fine-tuning) |
 | **V8** | **70%** | Proof of concept |
-| Claude Sonnet 4.5 | 60% | Reference (API) |
+| Claude Sonnet 4.5 | 80% | Reference (API) |
 
 **V8 Strengths:**
 - ✅ Recognizes "LESS power + harm to YOU = UPEKSHA"
