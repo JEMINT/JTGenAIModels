@@ -148,8 +148,8 @@ def analyze():
         outputs = model.generate(
             **inputs,
             max_new_tokens=200,
-            temperature=0.7,
-            do_sample=True,
+            temperature=0.0,
+            do_sample=False,
             pad_token_id=tokenizer.eos_token_id,
         )
 
