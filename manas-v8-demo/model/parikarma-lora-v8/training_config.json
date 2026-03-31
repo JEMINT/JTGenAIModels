@@ -1,0 +1,16 @@
+{
+  "base_model": "Qwen/Qwen2-1.5B-Instruct",
+  "output_dir": "./parikarma-lora-v8",
+  "dataset_file": "parikarma_template_v8_compressed.jsonl",
+  "max_seq_length": 512,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "num_epochs": 3,
+  "batch_size": 2,
+  "learning_rate": 0.0002,
+  "version": "v8",
+  "framework": "power-dynamic-v2",
+  "data_type": "100% real labeled",
+  "trained_at": "2026-03-31T09:16:44.159604",
+  "num_examples": 100
+}
