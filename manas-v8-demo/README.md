@@ -1,4 +1,5 @@
 # MANAS V8 - Parikarma Communication Assistant
+<img width="1488" height="1412" alt="image" src="https://github.com/user-attachments/assets/8e5c0928-f314-4111-a955-272bab280167" />
 
 **A fine-tuned language model for Parikarma-aware communication in Indian professional contexts**
 
